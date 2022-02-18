@@ -1,0 +1,17 @@
+.new-expense{
+    background-color: rgb(179, 142, 240);
+    margin: 20px 0px;
+    padding: 10px 0px;
+    width: 100%;
+}
+
+.new-expense__addExpense{
+    color: rgb(227, 212, 241);
+    background-color: rgb(60, 15, 97);
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 12px;
+    cursor: pointer;
+}

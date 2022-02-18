@@ -1,0 +1,23 @@
+.filter-expenses{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+}
+
+.filter-expenses__heading{
+    margin-left: 25px;
+}
+
+.filter-expenses__filter{
+    margin-left: auto;
+    margin-right: 25px;
+}
+
+.filter-expenses__filter select{
+   width: 100px;
+   text-align: center;
+   padding: 5px;
+   border-radius: 5px;
+   font-weight: 600;
+}
